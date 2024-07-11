@@ -172,3 +172,109 @@
   
   }
   
+  .section3{
+    margin-top: 30px;
+    width: 1024px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.section3-text{
+    text-align: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section3-text-h1{
+    color: black;
+    font-size: xx-large;
+}
+
+.section3-text-h3{
+    color: rgb(168, 168, 168);
+    font-size: medium;
+}
+
+
+.video{
+  border-radius: 20px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  border: black;
+}
+
+.video iframe{
+  width: 950px; 
+  height: 500px; 
+  border: 25px solid rgba(253, 253, 253, 0.2); 
+  border-radius: 10px; 
+  margin-top: 10px;
+}
+
+
+/* 4th commit */
+
+
+/* 5th commit */
+
+.section3-grid{
+    display: grid;
+    column-gap: 10px;
+    grid-template-columns: auto auto auto;
+    margin-bottom: 20px;
+}
+
+.gridcolumn1{
+    width: 340px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #ffe7e1;
+    border-radius: 20px;
+}
+
+.column1{
+    width: 250px;
+    padding: 20px 20px 20px 20px;
+    margin-inline: auto;
+}
+
+.column1-img{
+    display: block;
+    text-align: left;
+}
+
+/* .column1h1{
+    display: flex;
+    align-items: start;
+} */
+
+.column1h4{
+    text-decoration: underline;
+}
+
+.gridcolumn2{
+    width: 340px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #aac7ff;
+    border-radius: 20px;
+}
+
+.gridcolumn3{
+    width: 340px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #fffec6;
+    border-radius: 20px;
+}
+
+
